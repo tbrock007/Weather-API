@@ -1,4 +1,4 @@
-# Weather Information Fetcher
+# API Weather Information 
 
 This Python script provides real-time weather updates for any city specified by the user. It uses the OpenWeatherMap API to fetch the current temperature, humidity, wind speed, weather condition, sunrise and sunset times, and then converts temperature data from Kelvin to Celsius and Fahrenheit for ease of interpretation.
 
